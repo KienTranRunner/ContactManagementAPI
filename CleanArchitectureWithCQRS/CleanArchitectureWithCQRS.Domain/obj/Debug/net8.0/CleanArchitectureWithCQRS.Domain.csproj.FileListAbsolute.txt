@@ -1,0 +1,11 @@
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/bin/Debug/net8.0/CleanArchitectureWithCQRS.Domain.deps.json
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/bin/Debug/net8.0/CleanArchitectureWithCQRS.Domain.dll
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/bin/Debug/net8.0/CleanArchitectureWithCQRS.Domain.pdb
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/obj/Debug/net8.0/CleanArchitectureWithCQRS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/obj/Debug/net8.0/CleanArchitectureWithCQRS.Domain.AssemblyInfoInputs.cache
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/obj/Debug/net8.0/CleanArchitectureWithCQRS.Domain.AssemblyInfo.cs
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/obj/Debug/net8.0/CleanArchitectureWithCQRS.Domain.csproj.CoreCompileInputs.cache
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/obj/Debug/net8.0/CleanArchitectureWithCQRS.Domain.dll
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/obj/Debug/net8.0/refint/CleanArchitectureWithCQRS.Domain.dll
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/obj/Debug/net8.0/CleanArchitectureWithCQRS.Domain.pdb
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/obj/Debug/net8.0/ref/CleanArchitectureWithCQRS.Domain.dll

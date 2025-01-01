@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CleanArchitectureWithCQRS.API.props" />
+</Project>
