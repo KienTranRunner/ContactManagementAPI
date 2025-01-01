@@ -2,7 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CleanArchitectureWithCQRS.Domain\CleanArchitectureWithCQRS.Domain.csproj" />
-    <ProjectReference Include="..\CleanArchitectureWithCQRS.Infrastructure\CleanArchitectureWithCQRS.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>

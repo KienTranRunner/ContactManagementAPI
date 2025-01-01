@@ -17,6 +17,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CleanArchitectureWithCQRS.Application\CleanArchitectureWithCQRS.Application.csproj" />
+    <ProjectReference Include="..\CleanArchitectureWithCQRS.Infrastructure\CleanArchitectureWithCQRS.Infrastructure.csproj" />
+
   </ItemGroup>
 
 </Project>

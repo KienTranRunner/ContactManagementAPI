@@ -9,6 +9,7 @@
       "CleanArchitectureWithCQRS.API/1.0.0": {
         "dependencies": {
           "CleanArchitectureWithCQRS.Application": "1.0.0",
+          "CleanArchitectureWithCQRS.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.0",
           "Swashbuckle.AspNetCore": "6.4.0"
@@ -1132,7 +1133,6 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "CleanArchitectureWithCQRS.Domain": "1.0.0",
-          "CleanArchitectureWithCQRS.Infrastructure": "1.0.0",
           "MediatR": "12.4.1"
         },
         "runtime": {
@@ -1152,7 +1152,7 @@
       },
       "CleanArchitectureWithCQRS.Infrastructure/1.0.0": {
         "dependencies": {
-          "CleanArchitectureWithCQRS.Domain": "1.0.0",
+          "CleanArchitectureWithCQRS.Application": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0"
         },

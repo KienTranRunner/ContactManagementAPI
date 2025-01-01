@@ -28,6 +28,9 @@
             "projectReferences": {
               "/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Application/CleanArchitectureWithCQRS.Application.csproj": {
                 "projectPath": "/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Application/CleanArchitectureWithCQRS.Application.csproj"
+              },
+              "/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Infrastructure/CleanArchitectureWithCQRS.Infrastructure.csproj": {
+                "projectPath": "/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Infrastructure/CleanArchitectureWithCQRS.Infrastructure.csproj"
               }
             }
           }
@@ -109,9 +112,6 @@
             "projectReferences": {
               "/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/CleanArchitectureWithCQRS.Domain.csproj": {
                 "projectPath": "/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/CleanArchitectureWithCQRS.Domain.csproj"
-              },
-              "/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Infrastructure/CleanArchitectureWithCQRS.Infrastructure.csproj": {
-                "projectPath": "/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Infrastructure/CleanArchitectureWithCQRS.Infrastructure.csproj"
               }
             }
           }
@@ -240,8 +240,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/CleanArchitectureWithCQRS.Domain.csproj": {
-                "projectPath": "/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Domain/CleanArchitectureWithCQRS.Domain.csproj"
+              "/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Application/CleanArchitectureWithCQRS.Application.csproj": {
+                "projectPath": "/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.Application/CleanArchitectureWithCQRS.Application.csproj"
               }
             }
           }

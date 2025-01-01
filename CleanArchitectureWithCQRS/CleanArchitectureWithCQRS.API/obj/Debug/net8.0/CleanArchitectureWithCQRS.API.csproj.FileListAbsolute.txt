@@ -153,8 +153,8 @@
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/bin/Debug/net8.0/CleanArchitectureWithCQRS.Domain.dll
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/bin/Debug/net8.0/CleanArchitectureWithCQRS.Infrastructure.dll
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/bin/Debug/net8.0/CleanArchitectureWithCQRS.Application.pdb
-/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/bin/Debug/net8.0/CleanArchitectureWithCQRS.Domain.pdb
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/bin/Debug/net8.0/CleanArchitectureWithCQRS.Infrastructure.pdb
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/bin/Debug/net8.0/CleanArchitectureWithCQRS.Domain.pdb
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/obj/Debug/net8.0/CleanArchitectureWithCQRS.API.csproj.AssemblyReference.cache
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/obj/Debug/net8.0/CleanArchitectureWithCQRS.API.GeneratedMSBuildEditorConfig.editorconfig
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/obj/Debug/net8.0/CleanArchitectureWithCQRS.API.AssemblyInfoInputs.cache
@@ -162,6 +162,7 @@
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/obj/Debug/net8.0/CleanArchitectureWithCQRS.API.csproj.CoreCompileInputs.cache
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/obj/Debug/net8.0/CleanArchitectureWithCQRS.API.MvcApplicationPartsAssemblyInfo.cs
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/obj/Debug/net8.0/CleanArchitectureWithCQRS.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/obj/Debug/net8.0/CleanArchitectureWithCQRS.API.sourcelink.json
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/obj/Debug/net8.0/staticwebassets.build.json
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/obj/Debug/net8.0/staticwebassets.development.json
 /Users/kien283/ContactManagementAPI/CleanArchitectureWithCQRS/CleanArchitectureWithCQRS.API/obj/Debug/net8.0/staticwebassets/msbuild.CleanArchitectureWithCQRS.API.Microsoft.AspNetCore.StaticWebAssets.props
