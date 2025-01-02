@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\CleanArchitectureWithCQRS.Application\CleanArchitectureWithCQRS.Application.csproj" />
+    <ProjectReference Include="..\CleanArchitectureWithCQRS.Domain\CleanArchitectureWithCQRS.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
