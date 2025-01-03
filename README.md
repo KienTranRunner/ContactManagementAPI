@@ -1,2 +1,3 @@
 # ContactManagementAPI
- Clean Architecture
+Learn Clean Architecture, CQRS Pattern
+
